@@ -1,0 +1,7 @@
+
+what are the beans ? @components 
+what are the dependency of a bean? @Autowired
+where to search for beans ?
+
+	
+   
